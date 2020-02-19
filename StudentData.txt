@@ -1,0 +1,43 @@
+Asfa Wahab	&NO&YES&NO&YES&YES&NO&NO&NO
+Esha Zafar      &NO&YES&YES&YES&NO&YES&NO&NO
+Zarish Hassan	&NO&NO&NO&YES&YES&NO&YES&YES
+Mariyam Tahir	&NO&NO&NO&YES&YES&YES&NO&YES
+Hira Tariq	&NO&YES&NO&YES&YES&YES&YES&NO
+Maha Irfan      &NO&NO&YES&YES&NO&YES&NO&NO
+Nida Tahir	&NO&NO&YES&NO&YES&NO&YES&NO
+Zaman Hassan	&YES&YES&YES&NO&NO&NO&NO&NO
+Tauseef Chemma	&YES&YES&YES&NO&NO&NO&YES&NO
+Rohan Mumtaz	&YES&NO&YES&YES&NO&NO&NO&NO
+Usama Arshad	&YES&NO&YES&YES&NO&YES&YES&YES
+Ahmed Sher	&YES&NO&NO&NO&YES&NO&YES&NO
+Zain Sherwani	&YES&NO&NO&YES&YES&NO&YES&YES
+Shaheer Afzal	&YES&NO&NO&NO&NO&NO&YES&NO
+Hassan Farooq   &YES&NO&YES&NO&NO&NO&NO&NO
+Muhammad Usama	&YES&YES&YES&YES&YES&NO&YES&YES
+Taimoor         &YES&NO&YES&YES&YES&NO&YES&NO
+Danish Abbas    &YES&YES&YES&YES&NO&NO&NO&YES
+Arsalan         &YES&NO&NO&YES&NO&YES&YES&NO
+Faisal 	        &YES&NO&YES&YES&YES&NO&YES&YES
+Talha Shakil	&YES&NO&YES&YES&YES&NO&NO&NO
+Waqas           &YES&NO&YES&YES&NO&YES&YES&NO
+Dawar Mustaqeem &YES&YES&NO&YES&YES&YES&NO&YES
+Raja Ali Hassan &YES&NO&NO&YES&NO&YES&YES&YES
+Sachal Husnain  &YES&NO&NO&YES&YES&NO&YES&YES
+Raees Iqbal     &YES&YES&YES&YES&NO&NO&YES&NO
+Haseeb Kharal   &YES&NO&YES&NO&YES&YES&YES&NO
+Awais Tauqeer   &YES&NO&NO&NO&NO&NO&NO&NO
+Moiz Amir	&YES&NO&YES&NO&YES&NO&NO&YES
+Muneeb          &YES&YES&NO&YES&NO&NO&YES&NO
+Shoaib Sheikh   &YES&NO&YES&NO&YES&NO&YES&NO
+Ravaiz Pervaiz  &YES&NO&YES&YES&YES&YES&YES&NO
+AbidUllah       &YES&NO&YES&YES&YES&YES&NO&YES
+Wasay 	        &YES&NO&YES&YES&YES&NO&NO&YES
+Faizan	        &YES&NO&NO&YES&NO&NO&NO&NO
+Anees           &YES&NO&NO&YES&YES&NO&NO&NO
+Abdul Rehman	&YES&YES&YES&NO&YES&NO&YES&NO
+Jamshed 	&YES&NO&YES&NO&YES&NO&NO&NO
+Neha Imran	&NO&NO&NO&YES&NO&YES&NO&NO
+Gafoor          &YES&NO&NO&YES&YES&NO&YES&NO
+Nauman	        &YES&NO&YES&YES&YES&NO&NO&NO
+Hassan Sandhu	&YES&NO&NO&YES&YES&NO&YES&NO
+

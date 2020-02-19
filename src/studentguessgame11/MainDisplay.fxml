@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="386.0" prefWidth="526.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="studentguessgame11.MainDisplayController">
+   <children>
+      <Button fx:id="start_b" layoutX="334.0" layoutY="293.0" mnemonicParsing="false" onAction="#StartButtonPressed" prefHeight="56.0" prefWidth="133.0" text="Start Game" />
+      <ImageView fx:id="photo" fitHeight="211.0" fitWidth="200.0" layoutX="318.0" layoutY="61.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Desktop/download.png" />
+         </image>
+      </ImageView>
+      <TextField disable="true" editable="false" layoutX="39.0" layoutY="336.0" prefHeight="26.0" prefWidth="235.0" promptText="Raja Ali Hassan &amp; Dawar Mustaqeem" />
+      <TextArea layoutX="28.0" layoutY="17.0" prefHeight="297.0" prefWidth="260.0" text="Hello !&#10;    Welcome to the Student&#10;Guess Game. &#10;    We will ask you few Questions&#10;and try to guess the Student &#10;you are thinking about.&#10;&#10;&#10;Instruction :&#10;     Answer the Questions Correct &#10;to get a Correct Answer.  :)">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
