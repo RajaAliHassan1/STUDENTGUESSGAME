@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author Dawar Mustaqeem
+ * @author Raja Ali Hassan
  */
 public class MainDisplayController implements Initializable {
     @FXML
