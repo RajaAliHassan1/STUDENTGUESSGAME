@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Dawar Mustaqeem
+ * @author Raja Ali Hassan
  */
 public class StudentGuessGame11 extends Application {
     
