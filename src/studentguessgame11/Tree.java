@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dawar Mustaqeem
+ * @author Raja Ali Hassan
  */
 public class Tree {
     
