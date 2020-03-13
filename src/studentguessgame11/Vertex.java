@@ -7,7 +7,7 @@ package studentguessgame11;
 
 /**
  *
- * @author Dawar Mustaqeem
+ * @author Raja Ali Hassan
  */
 public class Vertex {
     
